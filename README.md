@@ -1,6 +1,6 @@
 # Mars Crater Detection and Segmentation with MaskRCNN
 
-![](https://github.com/mymultiverse/Mask_RCNN/blob/master/samples/crater/gitex.PNG)
+![](/gitex.PNG)
 
 #### Dependencies 
 Tested On Windows 10 pro PC with GPU
@@ -11,13 +11,13 @@ conda install keras
 
 Detection of craters on planetary surface is very crucial for the better understanding of planet topography. It is also important for the selection of landing sites of various lander mission, path planning for rover missions. This project is about application of deep learning method for detection and semantic segmentation of craters in an image. Model trained using transfer learning on pretrained MaskRCNN model. Overall project can be devided into four parts as follow:-    
 
-1. [Data Preparation](https://github.com/mymultiverse/Mask_RCNN/edit/master/samples/crater#Data-Collection-and-Training-Validation-data-preparation)
+1. [Data Preparation]
 
-2. [Data Inspection](https://github.com/mymultiverse/Mask_RCNN/blob/master/samples/crater/inspect_crater_data.ipynb)
+2. [Data Inspection]
 
-3. [Training](https://github.com/mymultiverse/Mask_RCNN/blob/master/samples/crater/train.ipynb)
+3. [Training]
 
-4. [Testing](https://github.com/mymultiverse/Mask_RCNN/blob/master/samples/crater/inspect_crater_model.ipynb)
+4. [Testing]
 
 With splash.py the trained model was tested on video, although it was only trained with Mars data, learned model able to detect craters on the lunar surface as well.
 
