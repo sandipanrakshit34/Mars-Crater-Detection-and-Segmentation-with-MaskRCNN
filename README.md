@@ -3,7 +3,7 @@
 ![](/gitex.PNG)
 
 #### Dependencies 
-Tested On Windows 10 pro PC with GPU
+Tested On Windows 11 PC with GPU
 ```
 conda install tensorflow-gpu
 conda install keras
